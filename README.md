@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/keilabcs)](https://www.instagram.com/keilabcs) 
 
 
-👩🏻‍💻 PhD student @ [UFPE](https://portal.cin.ufpe.br/) <br>
+👩🏻‍💻 PhD Student @ [UFPE](https://portal.cin.ufpe.br/) <br>
 💻 R, Python, Html,  Css, JavaScript, Keras, Tensorflow <br>
 ⚡ Agile and Scrum <br> 
 🤖 Deep Learning Enthusiast <br>
