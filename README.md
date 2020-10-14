@@ -1,5 +1,5 @@
 
-## :man_technologist: Keila Barbosa
+## :women_technologist: Keila Barbosa
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/keilabcs)](https://github.com/keilabcs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keilabcs/)](https://www.linkedin.com/in/keilabcs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbcs2@cin.ufpe.br)](mailto:kbcs2@cin.ufpe.br)
