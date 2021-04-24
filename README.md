@@ -22,7 +22,7 @@
 </p>
 
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=keilabcs&theme=bear)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=keilabcs&theme=react-dark)
 
 
 <!--
