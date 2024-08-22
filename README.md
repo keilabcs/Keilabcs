@@ -1,16 +1,16 @@
 
-## 👩🏻‍💻 Keila Barbosa
+## 👩🏻‍💻 Keila Barbosa Costa dos Santos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/keilabcs)](https://github.com/keilabcs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keilabcs/)](https://www.linkedin.com/in/keilabcs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbcs2@cin.ufpe.br)](mailto:kbcs2@cin.ufpe.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/keilabcs)](https://www.instagram.com/keilabcs) 
 
 
-👩🏻‍💻 PhD Student @ [UFPE](https://portal.cin.ufpe.br/) <br>
-💻 R, Python, Html,  Css, JavaScript, Keras, Tensorflow <br>
+👩🏻‍💻 PhD Student @ [UFPE](https://portal.cin.ufpe.br/) <br> and @ [VUW](https://www.wgtn.ac.nz/ecs)
+💻 R, Python, Html, Css, JavaScript, Keras, Tensorflow, LaTeX<br>
 ⚡ Agile and Scrum <br> 
 🤖 Deep Learning Enthusiast <br>
-🇧🇷 Maceió, Brazil <br>
+🇧🇷 Maceió, Brazil and 🇳🇿 Wellington, New Zealand <br>
 
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
