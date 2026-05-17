@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/keilabcs)](https://www.instagram.com/keilabcs) 
 
 
-👩🏻‍💻 PhD Student @ [UFPE](https://portal.cin.ufpe.br/) and @ [VUW](https://www.wgtn.ac.nz/ecs)<br>
+👩🏻‍💻 PhD Student @ [UFPE](https://portal.cin.ufpe.br/<br>
 💻 R, Python, Html, Css, JavaScript, Keras, Tensorflow, LaTeX, ...<br>
 ⚡ Agile and Scrum <br> 
 🤖 Deep Learning Enthusiast <br>
@@ -21,9 +21,7 @@
   </a>
 </p>
 
-
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=keilabcs&theme=react-dark)
-
 
 <!--
 **keilabcs/Keilabcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
